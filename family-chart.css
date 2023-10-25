@@ -1,6 +1,6 @@
 .f3 {
-    height: calc(100vh - 10px);
-    width: 100vw;
+    height: calc(100vh - 20px);
+    width: calc(100vw - 20px);
     margin: auto;
     position: relative;
   }
