@@ -1,0 +1,904 @@
+[
+  {
+    "id": "0",
+    "rels": {
+      "spouses": [
+        "72c536db-900e-4ecd-ab2f-29bff46240f9"
+      ],
+      "children": [
+        "8cf6850d-6254-4777-b4cf-54c93137cd68",
+        "8d3c72be-7175-4ecc-be1b-8237fbcf3676"
+      ]
+    },
+    "data": {
+      "nom": "Ben Mustapha Hanfi",
+      "prenom": "Ali",
+      "surnom": "",
+      "gender": "M",
+      "avatar": "",
+      "naissance": "1885",
+      "deces": "1939"
+    }
+  },
+  {
+    "id": "72c536db-900e-4ecd-ab2f-29bff46240f9",
+    "data": {
+      "gender": "F",
+      "nom": "Belasfar",
+      "prenom": "Hedia",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "10/06/1907",
+      "deces": "14/11/1990"
+    },
+    "rels": {
+      "spouses": [
+        "0"
+      ],
+      "children": [
+        "8cf6850d-6254-4777-b4cf-54c93137cd68",
+        "8d3c72be-7175-4ecc-be1b-8237fbcf3676"
+      ]
+    }
+  },
+  {
+    "id": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Abdelkader",
+      "surnom": "M'HAMED",
+      "avatar": "",
+      "naissance": "10/1/1928",
+      "deces": "15/5/2012"
+    },
+    "rels": {
+      "mother": "72c536db-900e-4ecd-ab2f-29bff46240f9",
+      "father": "0",
+      "spouses": [
+        "57211870-533a-471c-ba22-8362e5da6571"
+      ],
+      "children": [
+        "3c5fa85b-f98d-4547-acf7-44adda2c9a06",
+        "21fd43cc-af69-4585-b705-32f4ffeb859a",
+        "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c",
+        "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+        "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9",
+        "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0"
+      ]
+    }
+  },
+  {
+    "id": "57211870-533a-471c-ba22-8362e5da6571",
+    "data": {
+      "gender": "F",
+      "nom": "Bouderbala",
+      "prenom": "Mounira",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "26/10/1943",
+      "deces": "16/6/2016"
+    },
+    "rels": {
+      "spouses": [
+        "8cf6850d-6254-4777-b4cf-54c93137cd68"
+      ],
+      "children": [
+        "3c5fa85b-f98d-4547-acf7-44adda2c9a06",
+        "21fd43cc-af69-4585-b705-32f4ffeb859a",
+        "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c",
+        "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+        "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9",
+        "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0"
+      ]
+    }
+  },
+  {
+    "id": "3c5fa85b-f98d-4547-acf7-44adda2c9a06",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Ali",
+      "surnom": "",
+      "avatar": "https://media.licdn.com/dms/image/C4E03AQED22nbNcSWSw/profile-displayphoto-shrink_200_200/0/1516895386640?e=1703721600&v=beta&t=gtJ1AUnPcrUIQSrwX8oOD9La4Gg70rPSqeeu7u_QEiQ",
+      "naissance": "1961",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "f24138cf-6929-45e7-bfe5-8349bbe1edaf"
+      ],
+      "children": [
+        "12a04a0b-a27e-4f9a-a40a-49da0145a261",
+        "89dcacb4-6194-4bb7-a6bd-228479a8eabc"
+      ]
+    }
+  },
+  {
+    "id": "f24138cf-6929-45e7-bfe5-8349bbe1edaf",
+    "data": {
+      "gender": "F",
+      "nom": "B.Chaabane",
+      "prenom": "Najet",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1967",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "3c5fa85b-f98d-4547-acf7-44adda2c9a06"
+      ],
+      "children": [
+        "12a04a0b-a27e-4f9a-a40a-49da0145a261",
+        "89dcacb4-6194-4bb7-a6bd-228479a8eabc"
+      ]
+    }
+  },
+  {
+    "id": "12a04a0b-a27e-4f9a-a40a-49da0145a261",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Safa",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "f24138cf-6929-45e7-bfe5-8349bbe1edaf",
+      "father": "3c5fa85b-f98d-4547-acf7-44adda2c9a06",
+      "spouses": [
+        "f283fd4c-d9ee-4b80-8e6b-7d9743431bec"
+      ],
+      "children": [
+        "1cf3141a-d464-435a-bbdc-521b86559196"
+      ]
+    }
+  },
+  {
+    "id": "89dcacb4-6194-4bb7-a6bd-228479a8eabc",
+    "data": {
+      "gender": "M",
+      "nom": "hanfi",
+      "prenom": "mohamed houssem",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "f24138cf-6929-45e7-bfe5-8349bbe1edaf",
+      "father": "3c5fa85b-f98d-4547-acf7-44adda2c9a06",
+      "spouses": [
+        "29dbf359-fd81-4d9f-9c9a-f57f7abdd88f"
+      ]
+    }
+  },
+  {
+    "id": "f283fd4c-d9ee-4b80-8e6b-7d9743431bec",
+    "data": {
+      "gender": "M",
+      "nom": "Othman",
+      "prenom": "Wassim",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "12a04a0b-a27e-4f9a-a40a-49da0145a261"
+      ],
+      "children": [
+        "1cf3141a-d464-435a-bbdc-521b86559196"
+      ]
+    }
+  },
+  {
+    "id": "1cf3141a-d464-435a-bbdc-521b86559196",
+    "data": {
+      "gender": "F",
+      "nom": "Othman",
+      "prenom": "Sofia",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "12a04a0b-a27e-4f9a-a40a-49da0145a261",
+      "father": "f283fd4c-d9ee-4b80-8e6b-7d9743431bec"
+    }
+  },
+  {
+    "id": "29dbf359-fd81-4d9f-9c9a-f57f7abdd88f",
+    "data": {
+      "gender": "F",
+      "nom": "Bohlila",
+      "prenom": "Samar",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "89dcacb4-6194-4bb7-a6bd-228479a8eabc"
+      ]
+    }
+  },
+  {
+    "id": "21fd43cc-af69-4585-b705-32f4ffeb859a",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Mourad",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1962",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "71d75ae7-7f46-487a-9b73-507c0bfb7a16",
+        "b1c82b71-5456-41ad-b71b-b0a2f8e0c0f5"
+      ],
+      "children": [
+        "8db3f9bb-a9de-4430-b2c3-08c6f9c36bf6",
+        "4b502b49-60f2-43e0-9f55-f8631b669882",
+        "bc900a3e-015f-4f85-a541-fa52f7f37d20"
+      ]
+    }
+  },
+  {
+    "id": "71d75ae7-7f46-487a-9b73-507c0bfb7a16",
+    "data": {
+      "gender": "F",
+      "nom": "Zaouch",
+      "prenom": "Hajer",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "21fd43cc-af69-4585-b705-32f4ffeb859a"
+      ],
+      "children": [
+        "8db3f9bb-a9de-4430-b2c3-08c6f9c36bf6"
+      ]
+    }
+  },
+  {
+    "id": "8db3f9bb-a9de-4430-b2c3-08c6f9c36bf6",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Maroua",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "71d75ae7-7f46-487a-9b73-507c0bfb7a16",
+      "father": "21fd43cc-af69-4585-b705-32f4ffeb859a",
+      "spouses": [
+        "5ad10fa4-1aac-448b-bc33-225d631141ee"
+      ],
+      "children": [
+        "9ff20b7e-f377-4686-959a-b2f5a3b9e801"
+      ]
+    }
+  },
+  {
+    "id": "5ad10fa4-1aac-448b-bc33-225d631141ee",
+    "data": {
+      "gender": "M",
+      "nom": "Ayadi",
+      "prenom": "Seif",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "8db3f9bb-a9de-4430-b2c3-08c6f9c36bf6"
+      ],
+      "children": [
+        "9ff20b7e-f377-4686-959a-b2f5a3b9e801"
+      ]
+    }
+  },
+  {
+    "id": "9ff20b7e-f377-4686-959a-b2f5a3b9e801",
+    "data": {
+      "gender": "F",
+      "nom": "Ayadi",
+      "prenom": "Khadija",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "5ad10fa4-1aac-448b-bc33-225d631141ee",
+      "mother": "8db3f9bb-a9de-4430-b2c3-08c6f9c36bf6"
+    }
+  },
+  {
+    "id": "b1c82b71-5456-41ad-b71b-b0a2f8e0c0f5",
+    "data": {
+      "gender": "F",
+      "nom": "Attia",
+      "prenom": "Nadia",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "21fd43cc-af69-4585-b705-32f4ffeb859a"
+      ],
+      "children": [
+        "4b502b49-60f2-43e0-9f55-f8631b669882",
+        "bc900a3e-015f-4f85-a541-fa52f7f37d20"
+      ]
+    }
+  },
+  {
+    "id": "4b502b49-60f2-43e0-9f55-f8631b669882",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Mayssa",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "b1c82b71-5456-41ad-b71b-b0a2f8e0c0f5",
+      "father": "21fd43cc-af69-4585-b705-32f4ffeb859a"
+    }
+  },
+  {
+    "id": "bc900a3e-015f-4f85-a541-fa52f7f37d20",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Malek",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "21fd43cc-af69-4585-b705-32f4ffeb859a",
+      "mother": "b1c82b71-5456-41ad-b71b-b0a2f8e0c0f5"
+    }
+  },
+  {
+    "id": "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Imed",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1963",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "7c161d7e-c39e-47b6-b673-d420d816f4cd"
+      ],
+      "children": [
+        "bfce760f-a470-41da-aa11-4fa20a193e88",
+        "4186a214-1149-4b68-bab7-c18714ece7e8",
+        "d6acf4c4-dae5-40b5-96a7-cbf62c52cfce"
+      ]
+    }
+  },
+  {
+    "id": "7c161d7e-c39e-47b6-b673-d420d816f4cd",
+    "data": {
+      "gender": "F",
+      "nom": "Guedouda",
+      "prenom": "Sarra",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c"
+      ],
+      "children": [
+        "bfce760f-a470-41da-aa11-4fa20a193e88",
+        "4186a214-1149-4b68-bab7-c18714ece7e8",
+        "d6acf4c4-dae5-40b5-96a7-cbf62c52cfce"
+      ]
+    }
+  },
+  {
+    "id": "bfce760f-a470-41da-aa11-4fa20a193e88",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Hamza",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "7c161d7e-c39e-47b6-b673-d420d816f4cd",
+      "father": "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c"
+    }
+  },
+  {
+    "id": "4186a214-1149-4b68-bab7-c18714ece7e8",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Hazem",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "7c161d7e-c39e-47b6-b673-d420d816f4cd",
+      "father": "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c"
+    }
+  },
+  {
+    "id": "d6acf4c4-dae5-40b5-96a7-cbf62c52cfce",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Selma",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "7c161d7e-c39e-47b6-b673-d420d816f4cd",
+      "father": "29ab5aba-9f97-49a3-a8a9-4bb65f2bea7c"
+    }
+  },
+  {
+    "id": "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Faouzia",
+      "surnom": "Faiza",
+      "avatar": "",
+      "naissance": "1966",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "727421ed-705c-4046-bf0a-8a12288de35c"
+      ],
+      "children": [
+        "05702844-81aa-4715-a110-5ffb741c0c4e",
+        "ab1599b1-aafe-44e3-9953-6cd337252a4d",
+        "7b66a62d-3352-43c9-84a7-a0dafdb95fde"
+      ]
+    }
+  },
+  {
+    "id": "727421ed-705c-4046-bf0a-8a12288de35c",
+    "data": {
+      "gender": "M",
+      "nom": "Slimani",
+      "prenom": "Abdelbadiaa",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "18f7dffd-b63a-4ace-8594-c8ea9865c95b"
+      ],
+      "children": [
+        "05702844-81aa-4715-a110-5ffb741c0c4e",
+        "ab1599b1-aafe-44e3-9953-6cd337252a4d",
+        "7b66a62d-3352-43c9-84a7-a0dafdb95fde"
+      ]
+    }
+  },
+  {
+    "id": "05702844-81aa-4715-a110-5ffb741c0c4e",
+    "data": {
+      "gender": "F",
+      "nom": "Slimani",
+      "prenom": "Roua",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+      "father": "727421ed-705c-4046-bf0a-8a12288de35c",
+      "spouses": [
+        "6df64bdd-ef6f-45e6-a3ca-84bee418843f"
+      ]
+    }
+  },
+  {
+    "id": "6df64bdd-ef6f-45e6-a3ca-84bee418843f",
+    "data": {
+      "gender": "M",
+      "nom": "Bogis",
+      "prenom": "Abderrahmen",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "05702844-81aa-4715-a110-5ffb741c0c4e"
+      ]
+    }
+  },
+  {
+    "id": "ab1599b1-aafe-44e3-9953-6cd337252a4d",
+    "data": {
+      "gender": "M",
+      "nom": "Slimani",
+      "prenom": "Rayen",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+      "father": "727421ed-705c-4046-bf0a-8a12288de35c"
+    }
+  },
+  {
+    "id": "7b66a62d-3352-43c9-84a7-a0dafdb95fde",
+    "data": {
+      "gender": "F",
+      "nom": "Slimani",
+      "prenom": "Ranim",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "18f7dffd-b63a-4ace-8594-c8ea9865c95b",
+      "father": "727421ed-705c-4046-bf0a-8a12288de35c"
+    }
+  },
+  {
+    "id": "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Badra",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "692328c8-022d-475b-937a-66410b35cf9a"
+      ],
+      "children": [
+        "3b400972-9381-4d4d-9eaa-ce609d94b1b8",
+        "b2a56ffa-3e2a-4c4f-9ff2-193d27831fd7",
+        "49d8ad86-51e0-4eef-bfdf-223fde1e3cb5"
+      ]
+    }
+  },
+  {
+    "id": "692328c8-022d-475b-937a-66410b35cf9a",
+    "data": {
+      "gender": "M",
+      "nom": "Kechiche",
+      "prenom": "Samir",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1970",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9"
+      ],
+      "children": [
+        "3b400972-9381-4d4d-9eaa-ce609d94b1b8",
+        "b2a56ffa-3e2a-4c4f-9ff2-193d27831fd7",
+        "49d8ad86-51e0-4eef-bfdf-223fde1e3cb5"
+      ]
+    }
+  },
+  {
+    "id": "3b400972-9381-4d4d-9eaa-ce609d94b1b8",
+    "data": {
+      "gender": "F",
+      "nom": "Kechiche",
+      "prenom": "Ranin",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "692328c8-022d-475b-937a-66410b35cf9a",
+      "mother": "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9"
+    }
+  },
+  {
+    "id": "b2a56ffa-3e2a-4c4f-9ff2-193d27831fd7",
+    "data": {
+      "gender": "F",
+      "nom": "Kechiche",
+      "prenom": "Houda",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "692328c8-022d-475b-937a-66410b35cf9a",
+      "mother": "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9"
+    }
+  },
+  {
+    "id": "49d8ad86-51e0-4eef-bfdf-223fde1e3cb5",
+    "data": {
+      "gender": "M",
+      "nom": "Adam",
+      "prenom": "Mhamed",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "692328c8-022d-475b-937a-66410b35cf9a",
+      "mother": "d1f6e319-0fcf-465f-93c1-30ebfb6edcd9"
+    }
+  },
+  {
+    "id": "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Walid",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1972",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "57211870-533a-471c-ba22-8362e5da6571",
+      "father": "8cf6850d-6254-4777-b4cf-54c93137cd68",
+      "spouses": [
+        "3f9f6852-cd6f-41a9-9dc0-e52ddfd10d72"
+      ],
+      "children": [
+        "d2bd2a30-0323-4eeb-8e12-4772400bd88d",
+        "c8ab9902-c7d1-4d2e-8e70-cd9793434763"
+      ]
+    }
+  },
+  {
+    "id": "3f9f6852-cd6f-41a9-9dc0-e52ddfd10d72",
+    "data": {
+      "gender": "F",
+      "nom": "Ben Brick",
+      "prenom": "Chedlia",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0"
+      ],
+      "children": [
+        "d2bd2a30-0323-4eeb-8e12-4772400bd88d",
+        "c8ab9902-c7d1-4d2e-8e70-cd9793434763"
+      ]
+    }
+  },
+  {
+    "id": "d2bd2a30-0323-4eeb-8e12-4772400bd88d",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Rania",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0",
+      "mother": "3f9f6852-cd6f-41a9-9dc0-e52ddfd10d72"
+    }
+  },
+  {
+    "id": "c8ab9902-c7d1-4d2e-8e70-cd9793434763",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Nour",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "father": "25e5a5c7-4ca3-4cc6-8193-5a7871b4e5e0",
+      "mother": "3f9f6852-cd6f-41a9-9dc0-e52ddfd10d72"
+    }
+  },
+  {
+    "id": "8d3c72be-7175-4ecc-be1b-8237fbcf3676",
+    "data": {
+      "gender": "M",
+      "nom": "Hanfi",
+      "prenom": "Mistapha",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "72c536db-900e-4ecd-ab2f-29bff46240f9",
+      "father": "0",
+      "spouses": [
+        "2bf784c3-501a-4eee-b2b3-8a607117d8ba"
+      ],
+      "children": [
+        "34ae402b-e5bd-4e27-952a-388aaeea9a64"
+      ]
+    }
+  },
+  {
+    "id": "2bf784c3-501a-4eee-b2b3-8a607117d8ba",
+    "data": {
+      "gender": "F",
+      "nom": "Zaraa",
+      "prenom": "Fatma",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1930",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "8d3c72be-7175-4ecc-be1b-8237fbcf3676"
+      ],
+      "children": [
+        "34ae402b-e5bd-4e27-952a-388aaeea9a64"
+      ]
+    }
+  },
+  {
+    "id": "34ae402b-e5bd-4e27-952a-388aaeea9a64",
+    "data": {
+      "gender": "F",
+      "nom": "Hanfi",
+      "prenom": "Alia",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "1960",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "2bf784c3-501a-4eee-b2b3-8a607117d8ba",
+      "father": "8d3c72be-7175-4ecc-be1b-8237fbcf3676",
+      "spouses": [
+        "cf59a637-1836-4d3d-8709-a8513642e2d7"
+      ],
+      "children": [
+        "9bfca137-1eaa-4216-9bdc-b078150662c5",
+        "f4de9af1-49ef-4e66-a332-8f6ad2d60600",
+        "dd0d3291-a742-45e5-91ac-43054750e836"
+      ]
+    }
+  },
+  {
+    "id": "cf59a637-1836-4d3d-8709-a8513642e2d7",
+    "data": {
+      "gender": "M",
+      "nom": "Boubaker",
+      "prenom": "Mondher",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "spouses": [
+        "34ae402b-e5bd-4e27-952a-388aaeea9a64"
+      ],
+      "children": [
+        "9bfca137-1eaa-4216-9bdc-b078150662c5",
+        "f4de9af1-49ef-4e66-a332-8f6ad2d60600",
+        "dd0d3291-a742-45e5-91ac-43054750e836"
+      ]
+    }
+  },
+  {
+    "id": "9bfca137-1eaa-4216-9bdc-b078150662c5",
+    "data": {
+      "gender": "M",
+      "nom": "Boubaker",
+      "prenom": "Selim",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "34ae402b-e5bd-4e27-952a-388aaeea9a64",
+      "father": "cf59a637-1836-4d3d-8709-a8513642e2d7"
+    }
+  },
+  {
+    "id": "f4de9af1-49ef-4e66-a332-8f6ad2d60600",
+    "data": {
+      "gender": "M",
+      "nom": "Boubaker",
+      "prenom": "Sami",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "34ae402b-e5bd-4e27-952a-388aaeea9a64",
+      "father": "cf59a637-1836-4d3d-8709-a8513642e2d7"
+    }
+  },
+  {
+    "id": "dd0d3291-a742-45e5-91ac-43054750e836",
+    "data": {
+      "gender": "M",
+      "nom": "Boubaker",
+      "prenom": "Wael",
+      "surnom": "",
+      "avatar": "",
+      "naissance": "",
+      "deces": ""
+    },
+    "rels": {
+      "mother": "34ae402b-e5bd-4e27-952a-388aaeea9a64",
+      "father": "cf59a637-1836-4d3d-8709-a8513642e2d7"
+    }
+  }
+]
